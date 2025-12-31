@@ -1,0 +1,19 @@
+{
+  "website": {
+    "url": "https://omaremad101.github.io/basic-ig",
+    "server": "apache",
+    "org": "Omar Emad",
+    "clone-xml-json": true
+  },
+  "feeds": {
+    "package": "package-feed.xml",
+    "publication": "publication-feed.xml"
+  },
+  "layout-rules": [
+    {
+      "npm": "example.basic.ig",
+      "canonical": "https://omaremad101.github.io/basic-ig",
+      "destination": "/"
+    }
+  ]
+}

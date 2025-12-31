@@ -1,0 +1,23 @@
+BasicFHIRIG : Validation Results
+=========================================
+
+err = 1, warn = 6, info = 1
+$--
+Generated $--. FHIR version $-- for example.basic.ig#$-- (canonical = https://omaremad101.github.io/basic-ig)
+ Build Errors : 1 / 4 / 0
+ C:\fhir-publication\temp\ig-builds\example.basic.ig#0.1.0\fsh-generated\resources\ImplementationGuide-example.basic.ig : 0 / 0 / 1
+ C:\fhir-publication\temp\ig-builds\example.basic.ig#0.1.0\fsh-generated\resources\StructureDefinition-BasicPatient : 0 / 1 / 2
+ C:\fhir-publication\temp\ig-builds\example.basic.ig#0.1.0\fsh-generated\resources\StructureDefinition-FavoriteColor : 0 / 1 / 1
+</table>
+== n/a ==
+ERROR: ImplementationGuide.definition.parameter[23].value: Supressed messages file not found
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml, dependency-table-nontech.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated\resources\ImplementationGuide-example.basic.ig.json ==
+== fsh-generated\resources\StructureDefinition-BasicPatient.json ==
+INFORMATION: StructureDefinition/BasicPatient: StructureDefinition.snapshot.element[4].binding.extension[0]: The extension http://hl7.org/fhir/StructureDefinition/elementdefinition-maxValueSet|5.2.0 is deprecated
+WARNING: StructureDefinition.where(url = 'https://omaremad101.github.io/basic-ig/StructureDefinition/BasicPatient'): The Implementation Guide contains no examples for this profile
+== fsh-generated\resources\StructureDefinition-FavoriteColor.json ==
+WARNING: StructureDefinition.where(url = 'https://omaremad101.github.io/basic-ig/StructureDefinition/FavoriteColor'): The Implementation Guide contains no examples for this extension

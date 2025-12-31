@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abdelbar - FHIR Packages</title>
+    <description>Published FHIR NPM Packages</description>
+    <link>https://omaremad101.github.io/basic-ig</link>
+    <atom:link href="https://omaremad101.github.io/basic-ig/package-feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 31 Dec 2025 13:00:00 +0100</pubDate>
+  </channel>
+</rss>
