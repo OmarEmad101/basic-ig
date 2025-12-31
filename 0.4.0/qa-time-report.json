@@ -1,0 +1,297 @@
+{
+  "date" : "Wed, 31 Dec, 2025 21:31:13 +0100",
+  "doco" : "For each file: start is seconds after start activity occurred. Length = milliseconds activity took",
+  "files" : [
+    {
+      "name" : "\\fsh-generated\\resources\\ImplementationGuide-example.basic.ig.json",
+      "size" : 2185,
+      "processes" : [
+        {
+          "activity" : "load",
+          "start" : 24,
+          "length" : 17
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 25,
+          "length" : 7
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 25,
+          "length" : 76
+        },
+        {
+          "activity" : "validate",
+          "start" : 29,
+          "length" : 4310
+        },
+        {
+          "activity" : "generate1",
+          "start" : 42,
+          "length" : 103
+        },
+        {
+          "activity" : "generate2",
+          "start" : 45,
+          "length" : 137
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 1
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 84,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/Patient-ExampleBasicPatient.json",
+      "size" : 431,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 24,
+          "length" : 12
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 25,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 25,
+          "length" : 2
+        },
+        {
+          "activity" : "validate",
+          "start" : 40,
+          "length" : 5
+        },
+        {
+          "activity" : "generate1",
+          "start" : 42,
+          "length" : 18
+        },
+        {
+          "activity" : "generate2",
+          "start" : 45,
+          "length" : 84
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-BasicPatient.json",
+      "size" : 622,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 24,
+          "length" : 10
+        },
+        {
+          "activity" : "load",
+          "start" : 24,
+          "length" : 15
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 24,
+          "length" : 58
+        },
+        {
+          "activity" : "load-configure",
+          "start" : 25,
+          "length" : 1
+        },
+        {
+          "activity" : "checkR4R4B",
+          "start" : 25,
+          "length" : 1
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 25,
+          "length" : 46
+        },
+        {
+          "activity" : "validate",
+          "start" : 25,
+          "length" : 838
+        },
+        {
+          "activity" : "scanForUsageStats",
+          "start" : 40,
+          "length" : 1
+        },
+        {
+          "activity" : "generate1",
+          "start" : 42,
+          "length" : 331
+        },
+        {
+          "activity" : "generate2",
+          "start" : 45,
+          "length" : 3102
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 944
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 6
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 84,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "fsh-generated/resources/StructureDefinition-FavoriteColor.json",
+      "size" : 1208,
+      "processes" : [
+        {
+          "activity" : "loadResources",
+          "start" : 24,
+          "length" : 9
+        },
+        {
+          "activity" : "load",
+          "start" : 24,
+          "length" : 14
+        },
+        {
+          "activity" : "generateSnapshots",
+          "start" : 24,
+          "length" : 16
+        },
+        {
+          "activity" : "generateNarratives",
+          "start" : 25,
+          "length" : 19
+        },
+        {
+          "activity" : "validate",
+          "start" : 26,
+          "length" : 2764
+        },
+        {
+          "activity" : "generate1",
+          "start" : 42,
+          "length" : 106
+        },
+        {
+          "activity" : "generate2",
+          "start" : 48,
+          "length" : 939
+        },
+        {
+          "activity" : "generate2",
+          "start" : 50,
+          "length" : 44
+        },
+        {
+          "activity" : "generateValidationPack",
+          "start" : 76,
+          "length" : 2
+        },
+        {
+          "activity" : "scanExamplesForR5",
+          "start" : 84,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "\\fsh-generated\\includes\\fsh-link-references.md",
+      "size" : 165,
+      "processes" : [
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 3
+        }
+      ]
+    },
+    {
+      "name" : "\\fsh-generated\\includes\\menu.xml",
+      "size" : 1000,
+      "processes" : [
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 2
+        }
+      ]
+    },
+    {
+      "name" : "\\input\\pagecontent\\changes.md",
+      "size" : 151,
+      "processes" : [
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 8
+        }
+      ]
+    },
+    {
+      "name" : "\\input\\pagecontent\\index.md",
+      "size" : 171,
+      "processes" : [
+        {
+          "activity" : "scan",
+          "start" : 25,
+          "length" : 1
+        },
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 2
+        }
+      ]
+    },
+    {
+      "name" : "\\template\\config",
+      "size" : 0,
+      "processes" : [
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 1
+        }
+      ]
+    },
+    {
+      "name" : "\\template\\config\\_config.yml",
+      "size" : 140,
+      "processes" : [
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 2
+        }
+      ]
+    },
+    {
+      "name" : "\\temp\\pages\\_includes\\artifacts.xml",
+      "size" : 2920,
+      "processes" : [
+        {
+          "activity" : "generate2",
+          "start" : 49,
+          "length" : 1
+        }
+      ]
+    }
+  ]
+}

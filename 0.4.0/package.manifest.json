@@ -1,0 +1,6 @@
+{
+  "version" : "0.4.0",
+  "fhirVersion" : ["4.0.1"],
+  "date" : "20251231213113",
+  "name" : "example.basic.ig"
+}
