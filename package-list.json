@@ -8,6 +8,16 @@
       "desc" : "Continuous Integration Build (latest in version control) - Content subject to frequent changes"
     },
     {
+      "version" : "0.3.0",
+      "path" : "https://omaremad101.github.io/basic-ig/0.3.0",
+      "status" : "draft",
+      "sequence" : "Releases",
+      "fhirversion" : "4.0.1",
+      "date" : "2025-12-31",
+      "desc" : "v0.3.0 - Added example instance and changelog for QA improvements",
+      "changes" : "changes.html"
+    },
+    {
       "version" : "0.2.0",
       "path" : "https://omaremad101.github.io/basic-ig/0.2.0",
       "status" : "draft",

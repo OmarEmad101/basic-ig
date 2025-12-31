@@ -1,0 +1,23 @@
+[
+  {
+    "id" : "example.basic.ig",
+    "type" : "ImplementationGuide",
+    "url" : "https://omaremad101.github.io/basic-ig/ImplementationGuide/example.basic.ig",
+    "version" : "0.3.0",
+    "name" : "BasicFHIRIG"
+  },
+  {
+    "id" : "BasicPatient",
+    "type" : "StructureDefinition",
+    "url" : "https://omaremad101.github.io/basic-ig/StructureDefinition/BasicPatient",
+    "version" : "0.3.0",
+    "name" : "BasicPatient"
+  },
+  {
+    "id" : "FavoriteColor",
+    "type" : "StructureDefinition",
+    "url" : "https://omaremad101.github.io/basic-ig/StructureDefinition/FavoriteColor",
+    "version" : "0.3.0",
+    "name" : "FavoriteColor"
+  }
+]

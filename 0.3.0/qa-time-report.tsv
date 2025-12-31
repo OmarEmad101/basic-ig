@@ -1,0 +1,12 @@
+Source File	Size	loadResources	load	generateSnapshots	load-configure	scan	loadDepInfo	loadInfo	checkR4R4B	generateNarratives	validate	loadLists	checkConformanceResources	checkConformanceResources2	checkConformanceResources3	generateLogicalMaps	validateExpressions	scanForUsageStats	checkURLsUnique	processProvenanceDetails	generate1	generate2	generateLogicals	makeDependencies	generateExampleZip	generateValidationPack	scanProfilesForR5	scanExamplesForR5
+\fsh-generated\resources\ImplementationGuide-example.basic.ig.json	2185	-	0	0	0	0	0	0	9	190	0	0	0	0	1	0	0	1	0	0	131	349	0	0	0	1	0	5
+fsh-generated/resources/Patient-ExampleBasicPatient.json	431	15	0	0	1	0	0	0	0	4	0	0	0	0	0	0	0	0	0	0	23	73	0	0	1	0	0	0
+fsh-generated/resources/StructureDefinition-BasicPatient.json	622	12	0	95	0	0	0	0	1	67	0	0	1	0	0	0	0	1	0	0	522	4345	0	1	0	8	1	4
+fsh-generated/resources/StructureDefinition-FavoriteColor.json	1208	11	0	23	0	0	0	0	0	24	0	0	0	0	0	0	0	0	0	0	304	1188	0	0	0	2	0	1
+\fsh-generated\includes\fsh-link-references.md	165	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+\fsh-generated\includes\menu.xml	1000	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+\input\pagecontent\changes.md	151	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0	0	0	0
+\input\pagecontent\index.md	171	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\template\config	0	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+\template\config\_config.yml	140	-	-	-	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0
+\temp\pages\_includes\artifacts.xml	2920	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1	0	0	0	0	0	0

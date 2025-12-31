@@ -1,0 +1,24 @@
+# example.basic.ig#0.3.0: Basic FHIR Implementation Guide
+
+## Pages
+
+* [Home](index.md)
+* [Artifacts Summary](artifacts.md)
+
+## Resources
+
+### Resource Profiles
+
+* [BasicPatient](StructureDefinition-BasicPatient.md)
+
+### Extensions
+
+* [FavoriteColor](StructureDefinition-FavoriteColor.md)
+
+### ImplementationGuides
+
+* [Basic FHIR Implementation Guide](index.md)
+
+### Examples
+
+* [ExampleBasicPatient (Patient)](Patient-ExampleBasicPatient.md)
